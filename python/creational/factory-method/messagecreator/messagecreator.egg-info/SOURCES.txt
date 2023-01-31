@@ -1,0 +1,5 @@
+setup.py
+messagecreator.egg-info/PKG-INFO
+messagecreator.egg-info/SOURCES.txt
+messagecreator.egg-info/dependency_links.txt
+messagecreator.egg-info/top_level.txt
