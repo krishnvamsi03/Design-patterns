@@ -1,6 +1,5 @@
 from .Instance import Instance
 from storage.Storage import Storage
-from factory.newfactory.test import Test
 
 
 class AWSInstance(Instance):
